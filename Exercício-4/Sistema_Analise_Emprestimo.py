@@ -1,5 +1,5 @@
 '''
-    Sistema de Banco para Análise de Clientes
+    Sistema de Banco para Análise de Empréstimo
 '''
 def aprovacao(idade, renda, valor_emprestimo, n_parcelas):
     if idade <= 18:
