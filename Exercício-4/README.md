@@ -1,3 +1,4 @@
+```
   ______________________________________________________________________
  |.============[_     F_I A P _R_E_S_E_R_V_E___N_O_T_E_  ]=============.|
  ||%&%&%&%_    _        _ _ _   _ _  _ _ _     _       _    _  %&%&%&%&||
@@ -19,7 +20,9 @@
  ||&%'-'==================\`------------------`/=================='-'%&||
  ||%&JGS&%&%&%&%%&%&&&%&%%&)O N E  D O L L A R(%&%&%&%&%&%&%%&%&&&%&%%&||
  '""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""`
+```
 
-                   Sistema de Análise de Empréstimos
-Projeto em Python que simula a análise de aprovação de um empréstimo bancário.
+# Sistema de Análise de Empréstimos
+
+Projeto em Python que simula a análise de aprovação de um empréstimo bancário.  
 O sistema solicita dados do cliente, aplica regras de aprovação e calcula juros e parcelas.
