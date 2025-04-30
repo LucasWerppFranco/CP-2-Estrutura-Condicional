@@ -24,5 +24,11 @@
  '""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""`
 ```
 
+## Explicando o Projeto
+
 Projeto em Python que simula a análise de aprovação de um empréstimo bancário.  
 O sistema solicita dados do cliente, aplica regras de aprovação e calcula juros e parcelas.
+
+## Criado Por...
+
+Massayoshi Bando Fogaça e Silva - RM: 561779
