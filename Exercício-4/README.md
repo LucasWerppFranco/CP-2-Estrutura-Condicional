@@ -31,4 +31,4 @@ O sistema solicita dados do cliente, aplica regras de aprovação e calcula juro
 
 ## Criado Por...
 
-Massayoshi Bando Fogaça e Silva - RM: 561779
+Lucas Alves Antunes Almeida - RM: 566362
